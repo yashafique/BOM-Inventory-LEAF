@@ -27,7 +27,8 @@ Everything below this is supporting detail: costs, setup steps, and the fallback
 |---|---|---|---|
 | Atlas Scientific EZO-HUM (probe, plastic body) | 1 (start) | ~$55 | Reads humidity, dew point, air temp in one unit |
  
-<img src="./assets/ezo-hum-probe.jpg" alt="EZO-HUM Embedded Humidity Probe - Plastic Body" width="400"/>
+<img src="https://github.com/user-attachments/assets/a77014aa-8c65-4f6e-82dd-90390a7084ce" alt="EZO-HUM" width="500"/>
+
 ### Strongly recommended — carrier board route
  
 | Item | Qty | Approx. cost | Notes |
